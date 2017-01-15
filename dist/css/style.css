@@ -1,0 +1,67 @@
+html, body, div {
+	font-family: 'Montserrat', sans-serif;
+}
+img {
+	width:100%;
+}
+
+.jumbotron {
+	background: #2e3b44 url("https://www.ayco.com/content/img/carousel/jumbotron-chalkboard.jpg");
+	background-size: cover;
+	min-height:300px;
+	padding:11em;
+}
+.jumbotron h1 {
+	color: #FFF;
+}
+.jumbotron p {
+	color: #BDC5CA;
+}
+.col-md-4 {
+	margin-bottom:15px;
+}
+.btn-group button, .btn-group button:hover {
+	border-color:#EE4632;
+}
+.btn-group button {
+	color:#EE4632;
+	background-color:transparent;
+}
+.btn-group button:hover {
+	background-color:#EE4632;
+	color:#FFF;
+}
+.btn-main {
+  padding: 1em 3em;
+  font-size: 20px;
+}
+.off {
+	display:none;
+}
+.on {
+	display:block;
+}
+.btn-filestack {
+	background-color: #EE4632;
+	border-color: #EE4632;
+}
+.btn-filestack, .btn-filestack:hover {
+	color: #FFF;
+}
+.btn-filestack:hover {
+	background-color: #db2812;
+}
+.navbar-inverse {
+	background-color: transparent;
+    border-bottom-color: #8D98A0;
+}
+.navbar-brand {
+	color: #FFF !important;
+}
+.navbar-nav li a{
+	color:#BAC3C9 !important;
+}
+.thumbnail-img {
+	overflow:hidden;
+	height:250px;
+}
